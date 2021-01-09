@@ -31,13 +31,13 @@
     </repository>
   </repositories>
 
-  <dependencies>
-    <dependency>
-      <groupId>com.mapr.db</groupId>
-      <artifactId>maprdb</artifactId>
-      <version>5.2.1-mapr</version>
-    </dependency>
-  </dependencies>
+<dependencies>
+  <dependency>
+    <groupId>com.mapr.db</groupId>
+    <artifactId>maprdb</artifactId>
+    <version>5.2.1-mapr</version>
+  </dependency>
+</dependencies>
 
   <build>
     <directory>maprdb</directory>
